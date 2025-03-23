@@ -1,6 +1,7 @@
 {
   "packs": [
-    "KeidenStickers.json"
+    "KeidenStickers.json",
+    "UfoludekHateBatch.json"
   ],
   "homeserver_url": "https://fedora.ems.host"
 }
